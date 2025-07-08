@@ -1,0 +1,5 @@
+2024-12-05 11:03:26,040:ERROR:search-app:Item 'Frank' not found in the list. Error: 'Frank' is not in list
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\pythonCF5\chapter05\18. Logging App\18_logging_extra.py", line 78, in search_item
+    index = items.index(item_to_find)
+ValueError: 'Frank' is not in list
