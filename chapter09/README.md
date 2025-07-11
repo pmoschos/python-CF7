@@ -100,11 +100,11 @@ This repository contains advanced Python scripts that demonstrate various machin
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pmoschos/python-CF6
+   git clone https://github.com/pmoschos/python-CF7
    ```
 2. Navigate to the folder:
    ```bash
-   cd python-CF6
+   cd python-CF7
    ```
 3. Run any script:
    ```bash
