@@ -98,7 +98,7 @@ This collection focuses on practical applications of advanced Python concepts su
 To get started with Python Learning Scripts:
 No installation is required, as the script can be run directly from any Python-enabled environment:
 1. Ensure Python 3.x is installed on your machine.
-2. Clone the repository: `git clone https://github.com/pmoschos/python-cf6`
+2. Clone the repository: `git clone https://github.com/pmoschos/python-cf7`
 3. Navigate to the script of interest
 4. Open a terminal or command prompt.
 5. Refer to the comments within the script for detailed instructions

@@ -1,0 +1,1 @@
+APP_PATH = "put here the absolute path of the project"
